@@ -1,0 +1,26 @@
+.body {
+    background-color: rgb(41, 41, 173);
+    color: aliceblue;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70px;
+    background-color: rgb(2, 2, 79);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 20px;
+}
+
+.left {
+    font-size: 1.5rem;
+}
